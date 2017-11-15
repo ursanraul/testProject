@@ -13,7 +13,7 @@ namespace ConsoleApp1
         }
     }
 
-    public class Car
+    public class wheel
     {
     }
 }
